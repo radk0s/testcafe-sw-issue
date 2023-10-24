@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
+    "build-gh-pages": "tsc && vite build --base=/testcafe-sw-issue",
     "preview": "vite preview",
     "serve": "serve -s dist",
     "postinstall": "node ./node_modules/@axa-fr/oidc-client/bin/copy-service-worker-files.mjs public",
