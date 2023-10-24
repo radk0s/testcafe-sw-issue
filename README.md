@@ -17,6 +17,8 @@ npm run serve
 3. Provide credentials on external IDP page `bob`/`bob` and press `Enter`.
 4. Authenticated user is redirected to http://localhost:3000/ and can log out.
 
+![](test-scenario.mov)
+
 ## Running Testcafe automation
 
 * without native automation ```npm run e2e```

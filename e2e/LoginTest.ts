@@ -15,6 +15,5 @@ test("login works", async (t) => {
     .typeText(useNameInput, username, { replace: true })
     .typeText(passwordInput, password, { replace: true })
     .pressKey("enter")
-    .expect(Selector("#logout").exists)
-    .ok({ timeout: 10000 });
+    .click("#logout")
 });
