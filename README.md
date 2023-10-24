@@ -24,9 +24,14 @@ npm run serve
 * without native automation ```npm run e2e```
 
   Testcafe executes 1-3 steps form test scenario but fails on 4th.
-  
+
+https://github.com/radk0s/testcafe-sw-issue/assets/3709378/96585405-062b-4114-9f94-c95b0b269b5a
+
+
 * with native automation ```npm run e2e-native```
 
   Testcafe runner starts but opens blank page witout any errors.
-   
+
+https://github.com/radk0s/testcafe-sw-issue/assets/3709378/a60754a9-f34f-4565-a92a-9610a6d92e4e
+
 
