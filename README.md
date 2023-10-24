@@ -17,7 +17,7 @@ npm run serve
 3. Provide credentials on external IDP page `bob`/`bob` and press `Enter`.
 4. Authenticated user is redirected to http://localhost:3000/ and can log out.
 
-![](test-scenario.mov)
+[![](test-scenario.mov)](https://github.com/radk0s/testcafe-sw-issue/assets/3709378/3c87d74c-0156-4ff0-850e-f9266f62fa9e)
 
 ## Running Testcafe automation
 
@@ -29,3 +29,4 @@ npm run serve
 
   Testcafe runner starts but opens blank page witout any errors.
    
+
