@@ -17,7 +17,7 @@
     "serve": "^14.2.1",
     "testcafe": "^3.3.0",
     "typescript": "^5.0.2",
-    "vite": "^4.4.5"
+    "vite": "^4.5.1"
   },
   "dependencies": {
     "@axa-fr/oidc-client": "^7.7.0"
